@@ -1,0 +1,13 @@
+{
+  "main.css": "/simpleChat/static/css/main.a49738f3.chunk.css",
+  "main.js": "/simpleChat/static/js/main.caed0a3d.chunk.js",
+  "main.js.map": "/simpleChat/static/js/main.caed0a3d.chunk.js.map",
+  "static/js/1.12b2cd54.chunk.js": "/simpleChat/static/js/1.12b2cd54.chunk.js",
+  "static/js/1.12b2cd54.chunk.js.map": "/simpleChat/static/js/1.12b2cd54.chunk.js.map",
+  "runtime~main.js": "/simpleChat/static/js/runtime~main.df993f06.js",
+  "runtime~main.js.map": "/simpleChat/static/js/runtime~main.df993f06.js.map",
+  "static/css/main.a49738f3.chunk.css.map": "/simpleChat/static/css/main.a49738f3.chunk.css.map",
+  "index.html": "/simpleChat/index.html",
+  "precache-manifest.738f59d0f77bf9ba2f44eeff64dd1da3.js": "/simpleChat/precache-manifest.738f59d0f77bf9ba2f44eeff64dd1da3.js",
+  "service-worker.js": "/simpleChat/service-worker.js"
+}
